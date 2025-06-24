@@ -8,3 +8,8 @@
 
     }
 ```
+## java 코드
+```
+    int num1 = 10;
+    Scanner scanner = new Scanner (System.in);
+```
